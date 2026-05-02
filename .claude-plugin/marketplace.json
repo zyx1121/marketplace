@@ -1,0 +1,23 @@
+{
+  "name": "zyx1121",
+  "owner": {
+    "name": "詹詠翔 (zyx1121)",
+    "email": "loki@winlab.tw"
+  },
+  "description": "Personal Claude Code plugin marketplace by zyx1121.",
+  "plugins": [
+    {
+      "name": "scriptorium",
+      "source": {
+        "source": "github",
+        "repo": "zyx1121/scriptorium"
+      },
+      "description": "Self-maintained LLM wiki for teams. PostgreSQL + MCP-over-HTTP. Based on Karpathy's LLM Wiki pattern.",
+      "homepage": "https://github.com/zyx1121/scriptorium",
+      "repository": "https://github.com/zyx1121/scriptorium",
+      "license": "MIT",
+      "keywords": ["wiki", "knowledge-base", "llm", "mcp", "team", "postgres"],
+      "category": "productivity"
+    }
+  ]
+}
