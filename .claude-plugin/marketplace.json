@@ -18,6 +18,19 @@
       "license": "MIT",
       "keywords": ["wiki", "knowledge-base", "llm", "mcp", "team", "postgres"],
       "category": "productivity"
+    },
+    {
+      "name": "utils",
+      "source": {
+        "source": "github",
+        "repo": "zyx1121/utils"
+      },
+      "description": "Self-growing personal CLI toolbox. Hooks observe ad-hoc scripts and propose new commands; the CLI grows where it's actually used.",
+      "homepage": "https://github.com/zyx1121/utils",
+      "repository": "https://github.com/zyx1121/utils",
+      "license": "MIT",
+      "keywords": ["cli", "toolbox", "lifecycle", "self-growing", "observability"],
+      "category": "productivity"
     }
   ]
 }

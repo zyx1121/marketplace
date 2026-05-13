@@ -8,7 +8,7 @@ In any Claude Code session:
 
 ```
 /plugin marketplace add zyx1121/marketplace
-/plugin install scriptorium@zyx1121
+/plugin install <name>@zyx1121
 ```
 
 ## Plugins
@@ -16,6 +16,7 @@ In any Claude Code session:
 | Name | Description | Source |
 |---|---|---|
 | [`scriptorium`](https://github.com/zyx1121/scriptorium) | Self-maintained LLM wiki for teams (Postgres + MCP-over-HTTP) | `zyx1121/scriptorium` |
+| [`utils`](https://github.com/zyx1121/utils) | Self-growing personal CLI toolbox — hooks observe, agent promotes | `zyx1121/utils` |
 
 More to come.
 
