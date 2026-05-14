@@ -31,6 +31,19 @@
       "license": "MIT",
       "keywords": ["cli", "toolbox", "lifecycle", "self-growing", "observability"],
       "category": "productivity"
+    },
+    {
+      "name": "chronicle",
+      "source": {
+        "source": "github",
+        "repo": "zyx1121/chronicle"
+      },
+      "description": "Auto-write daily/weekly Claude Code journals from your sessions, prompts, and git activity. The 6th layer of the agentic stack — the one that finally writes about you.",
+      "homepage": "https://github.com/zyx1121/chronicle",
+      "repository": "https://github.com/zyx1121/chronicle",
+      "license": "MIT",
+      "keywords": ["observability", "journal", "daily-report", "weekly-report", "self-tracking", "agentic"],
+      "category": "productivity"
     }
   ]
 }
