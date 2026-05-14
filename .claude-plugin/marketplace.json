@@ -44,6 +44,32 @@
       "license": "MIT",
       "keywords": ["observability", "journal", "daily-report", "weekly-report", "self-tracking", "agentic"],
       "category": "productivity"
+    },
+    {
+      "name": "baogan",
+      "source": {
+        "source": "github",
+        "repo": "zyx1121/baogan"
+      },
+      "description": "Three Taiwan-flavored personalities (professor / responsibility / folk) with L0–L4 failure escalation. The 4th layer — the one that won't let your agent give up. Inspired by tanweai/pua.",
+      "homepage": "https://github.com/zyx1121/baogan",
+      "repository": "https://github.com/zyx1121/baogan",
+      "license": "MIT",
+      "keywords": ["discipline", "motivation", "pua", "pip", "taiwan", "never-give-up", "agentic"],
+      "category": "productivity"
+    },
+    {
+      "name": "quant",
+      "source": {
+        "source": "github",
+        "repo": "zyx1121/quant"
+      },
+      "description": "Taiwan-stock swing-trading specialist — 1–4 week holds, agent-based decisions, lives on outpost via Telegram. The 7th layer (operators / 操作員) — the first vertical that actually does the work.",
+      "homepage": "https://github.com/zyx1121/quant",
+      "repository": "https://github.com/zyx1121/quant",
+      "license": "MIT",
+      "keywords": ["taiwan-stock", "swing-trading", "twse", "outpost", "telegram", "operators", "agent-based"],
+      "category": "finance"
     }
   ]
 }
