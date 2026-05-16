@@ -25,11 +25,11 @@
         "source": "github",
         "repo": "zyx1121/utils"
       },
-      "description": "Self-growing personal CLI toolbox. Hooks observe ad-hoc scripts and propose new commands; the CLI grows where it's actually used.",
+      "description": "Loki's personal Claude Code plugin — agent-first CLI toolbox plus skills, agents, and hooks. Each script is a self-contained PEP 723 executable; hooks watch ad-hoc scripts and propose new ones when patterns repeat.",
       "homepage": "https://github.com/zyx1121/utils",
       "repository": "https://github.com/zyx1121/utils",
       "license": "MIT",
-      "keywords": ["cli", "toolbox", "lifecycle", "self-growing", "observability"],
+      "keywords": ["cli", "toolbox", "lifecycle", "self-growing", "agent-first", "pep-723", "journal", "observability"],
       "category": "productivity"
     },
     {
