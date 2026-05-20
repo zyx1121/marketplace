@@ -7,19 +7,6 @@
   "description": "Personal Claude Code plugin marketplace by zyx1121.",
   "plugins": [
     {
-      "name": "scriptorium",
-      "source": {
-        "source": "github",
-        "repo": "zyx1121/scriptorium"
-      },
-      "description": "Self-maintained LLM wiki for teams. PostgreSQL + MCP-over-HTTP. Based on Karpathy's LLM Wiki pattern.",
-      "homepage": "https://github.com/zyx1121/scriptorium",
-      "repository": "https://github.com/zyx1121/scriptorium",
-      "license": "MIT",
-      "keywords": ["wiki", "knowledge-base", "llm", "mcp", "team", "postgres"],
-      "category": "productivity"
-    },
-    {
       "name": "utils",
       "source": {
         "source": "github",
@@ -31,32 +18,6 @@
       "license": "MIT",
       "keywords": ["cli", "toolbox", "lifecycle", "self-growing", "agent-first", "pep-723", "journal", "observability"],
       "category": "productivity"
-    },
-    {
-      "name": "baogan",
-      "source": {
-        "source": "github",
-        "repo": "zyx1121/baogan"
-      },
-      "description": "Three Taiwan-flavored personalities (professor / responsibility / folk) with L0–L4 failure escalation. The 4th layer — the one that won't let your agent give up. Inspired by tanweai/pua.",
-      "homepage": "https://github.com/zyx1121/baogan",
-      "repository": "https://github.com/zyx1121/baogan",
-      "license": "MIT",
-      "keywords": ["discipline", "motivation", "pua", "pip", "taiwan", "never-give-up", "agentic"],
-      "category": "productivity"
-    },
-    {
-      "name": "quant",
-      "source": {
-        "source": "github",
-        "repo": "zyx1121/quant"
-      },
-      "description": "Taiwan-stock swing-trading specialist — 1–4 week holds, agent-based decisions, lives on outpost via Telegram. The 7th layer (operators / 操作員) — the first vertical that actually does the work.",
-      "homepage": "https://github.com/zyx1121/quant",
-      "repository": "https://github.com/zyx1121/quant",
-      "license": "MIT",
-      "keywords": ["taiwan-stock", "swing-trading", "twse", "outpost", "telegram", "operators", "agent-based"],
-      "category": "finance"
     }
   ]
 }
