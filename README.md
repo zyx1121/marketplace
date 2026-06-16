@@ -13,13 +13,7 @@ In any Claude Code session:
 
 ## Plugins
 
-| Name | Description | Source |
-|---|---|---|
-| [`scriptorium`](https://github.com/zyx1121/scriptorium) | Self-maintained LLM wiki for teams (Postgres + MCP-over-HTTP) | `zyx1121/scriptorium` |
-| [`baogan`](https://github.com/zyx1121/baogan) | Three Taiwan-flavored personalities (professor / responsibility / folk) — the 4th layer that won't let your agent give up | `zyx1121/baogan` |
-| [`quant`](https://github.com/zyx1121/quant) | Taiwan-stock swing-trading specialist — 1–4 week holds, agent-based decisions, lives on outpost via Telegram | `zyx1121/quant` |
-
-More to come.
+Nothing published right now — more to come.
 
 ## License
 
