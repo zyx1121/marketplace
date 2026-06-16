@@ -5,19 +5,5 @@
     "email": "loki@winlab.tw"
   },
   "description": "Personal Claude Code plugin marketplace by zyx1121.",
-  "plugins": [
-    {
-      "name": "utils",
-      "source": {
-        "source": "github",
-        "repo": "zyx1121/utils"
-      },
-      "description": "Loki's personal Claude Code plugin — agent-first CLI toolbox plus skills, agents, and hooks. Each script is a self-contained PEP 723 executable; hooks watch ad-hoc scripts and propose new ones when patterns repeat.",
-      "homepage": "https://github.com/zyx1121/utils",
-      "repository": "https://github.com/zyx1121/utils",
-      "license": "MIT",
-      "keywords": ["cli", "toolbox", "lifecycle", "self-growing", "agent-first", "pep-723", "journal", "observability"],
-      "category": "productivity"
-    }
-  ]
+  "plugins": []
 }
