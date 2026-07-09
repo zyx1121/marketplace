@@ -1,0 +1,22 @@
+{
+  "name": "xquik-x-data",
+  "version": "1.0.0",
+  "description": "Guides Xquik REST API and remote MCP workflows for X data, exports, monitoring, and webhooks",
+  "author": {
+    "name": "Xquik",
+    "url": "https://github.com/Xquik-dev"
+  },
+  "homepage": "https://docs.xquik.com",
+  "repository": "https://github.com/Xquik-dev/x-twitter-scraper",
+  "license": "MIT",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "userConfig": {
+    "api_key": {
+      "type": "string",
+      "title": "Xquik API Key",
+      "description": "Xquik API key from dashboard.xquik.com/account.",
+      "sensitive": true
+    }
+  }
+}

@@ -4,6 +4,14 @@
     "name": "詹詠翔 (zyx1121)",
     "email": "loki@winlab.tw"
   },
-  "description": "Personal Claude Code plugin marketplace by zyx1121.",
-  "plugins": []
+  "metadata": {
+    "description": "Personal Claude Code plugin marketplace by zyx1121."
+  },
+  "plugins": [
+    {
+      "name": "xquik-x-data",
+      "source": "./plugins/xquik-x-data",
+      "description": "Guides Xquik REST API and remote MCP workflows for X data, exports, monitoring, and webhooks"
+    }
+  ]
 }
