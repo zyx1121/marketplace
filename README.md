@@ -13,8 +13,10 @@ In any Claude Code session:
 
 ## Plugins
 
-Nothing published right now — more to come.
+| Plugin | Description |
+| --- | --- |
+| [xquik-x-data](./plugins/xquik-x-data/) | Xquik REST API and remote MCP workflows for X data. |
 
 ## License
 
-[MIT](LICENSE.md) — borrow what you like.
+[MIT](LICENSE.md) - borrow what you like.
