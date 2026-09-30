@@ -35,6 +35,26 @@
         "url": "https://github.com/zyx1121/nycu.git",
         "sha": "85d8611f07c51c0bb5d7eac89919a224e4f53a04"
       }
+    },
+    {
+      "name": "macos",
+      "description": "macOS Calendar, Reminders, Mail, Safari and screenshots through MCP.",
+      "version": "0.1.0",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/zyx1121/macos.git",
+        "sha": "4f81bcd22ad43fcdbee519e945c9b379e531562f"
+      }
+    },
+    {
+      "name": "ubereats",
+      "description": "Uber Eats order history, receipts and group-order ledgers through MCP.",
+      "version": "0.1.0",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/zyx1121/ubereats.git",
+        "sha": "3fedf53be05cb64cbb82eea6304d1a5225c39e51"
+      }
     }
   ]
 }
