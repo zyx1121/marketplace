@@ -4,6 +4,17 @@
     "name": "詹詠翔 (zyx1121)",
     "email": "loki@winlab.tw"
   },
-  "description": "Personal Claude Code plugin marketplace by zyx1121.",
-  "plugins": []
+  "description": "Solution plugins for Codex and Claude Code by zyx1121.",
+  "plugins": [
+    {
+      "name": "fde",
+      "description": "Agent-driven client POCs with shared skills, MCP tools, and scripts.",
+      "version": "0.1.0",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/zyx1121/fde.git",
+        "sha": "66d57dc699ab38759b49e17b113430b0a9e19a94"
+      }
+    }
+  ]
 }

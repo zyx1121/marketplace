@@ -1,19 +1,32 @@
 # zyx1121 marketplace
 
-Personal Claude Code plugin marketplace by [zyx1121](https://github.com/zyx1121).
+Solution plugins for Codex and Claude Code by [zyx1121](https://github.com/zyx1121).
 
 ## Install
 
-In any Claude Code session:
+Ask your agent to install a plugin from this marketplace, or use the host CLI.
 
-```
-/plugin marketplace add zyx1121/marketplace
-/plugin install <name>@zyx1121
+```sh
+# Claude Code
+claude plugin marketplace add zyx1121/marketplace
+claude plugin install fde@zyx1121
+
+# Codex versions with plugin add
+codex plugin marketplace add zyx1121/marketplace
+codex plugin add fde@zyx1121
 ```
 
 ## Plugins
 
-Nothing published right now — more to come.
+| Plugin | Version | Purpose |
+|---|---|---|
+| [fde](https://github.com/zyx1121/fde) | 0.1.0 | Build and operate live client POCs through shared skills, MCP tools and scripts. |
+
+Each plugin owns its source and releases. This marketplace pins release commits.
+The Claude-compatible catalog is shared by both hosts.
+
+The existing `zyx@zyx` all-purpose plugin remains available separately during
+incremental migration; registering this marketplace does not replace it.
 
 ## License
 
