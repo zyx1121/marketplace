@@ -10,10 +10,12 @@ Ask your agent to install a plugin from this marketplace, or use the host CLI.
 # Claude Code
 claude plugin marketplace add zyx1121/marketplace
 claude plugin install fde@zyx1121
+claude plugin install pve@zyx1121
 
 # Codex versions with plugin add
 codex plugin marketplace add zyx1121/marketplace
 codex plugin add fde@zyx1121
+codex plugin add pve@zyx1121
 ```
 
 ## Plugins
@@ -21,6 +23,7 @@ codex plugin add fde@zyx1121
 | Plugin | Version | Purpose |
 |---|---|---|
 | [fde](https://github.com/zyx1121/fde) | 0.1.0 | Build and operate live client POCs through shared skills, MCP tools and scripts. |
+| [pve](https://github.com/zyx1121/pve) | 0.1.0 | Operate Proxmox guests, port forwarding, internal DNS and Caddy through MCP. |
 
 Each plugin owns its source and releases. This marketplace pins release commits.
 The Claude-compatible catalog is shared by both hosts.
