@@ -24,6 +24,7 @@ codex plugin add pve@zyx1121
 codex plugin add nycu@zyx1121
 codex plugin add macos@zyx1121
 codex plugin add ubereats@zyx1121
+codex plugin add zyx@zyx1121
 ```
 
 ## Plugins
@@ -36,6 +37,7 @@ codex plugin add ubereats@zyx1121
 | [nycu](https://github.com/zyx1121/nycu) | 0.1.0 | NYCU portal, E3 coursework, public timetable and part-time attendance through MCP. |
 | [macos](https://github.com/zyx1121/macos) | 0.1.0 | macOS Calendar, Reminders, Mail, Safari and screenshots through MCP. |
 | [ubereats](https://github.com/zyx1121/ubereats) | 0.1.0 | Uber Eats order history, receipts and group-order ledgers through MCP. |
+| [zyx](https://github.com/zyx1121/plugin) | 0.29.0 | Skills for slides, docs, academic writing, Next.js and the dev workflow. |
 
 Task Web supplies the personal template. FDE operates configured environments.
 Use them together when a personal task runs in an FDE workspace, or separately
@@ -44,9 +46,10 @@ when the project already has its own design or deployment workflow.
 Each plugin owns its source and releases. This marketplace pins release commits.
 The Claude-compatible catalog is shared by both hosts.
 
-The existing `zyx@zyx` all-purpose plugin remains available separately during
-incremental migration; registering this marketplace does not replace it.
+Claude Code keeps installing the all-purpose plugin as `zyx@zyx` from its own
+marketplace, which also brings its agents and the utils MCP server. Codex
+installs `zyx@zyx1121` from here and gets the skills only.
 
 ## License
 
-[MIT](LICENSE.md) — borrow what you like.
+[MIT](LICENSE.md): borrow what you like.
