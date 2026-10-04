@@ -65,6 +65,16 @@
         "url": "https://github.com/zyx1121/ubereats.git",
         "sha": "3fedf53be05cb64cbb82eea6304d1a5225c39e51"
       }
+    },
+    {
+      "name": "zyx",
+      "description": "Skills for slides, docs, academic writing, Next.js and the dev workflow.",
+      "version": "0.29.0",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/zyx1121/plugin.git",
+        "sha": "87dbd224aa457ea5a8b4f4a8776b1a7cbd1f34f1"
+      }
     }
   ]
 }
