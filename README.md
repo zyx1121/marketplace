@@ -35,7 +35,7 @@ codex plugin add zyx@zyx1121
 | [task-web](https://github.com/zyx1121/task-web) | 0.2.0 | Personal web tools and research demos with the zyx template, separate from FDE operations. |
 | [pve](https://github.com/zyx1121/pve) | 0.1.0 | Operate Proxmox guests, port forwarding, internal DNS and Caddy through MCP. |
 | [nycu](https://github.com/zyx1121/nycu) | 0.1.0 | NYCU portal, E3 coursework, public timetable and part-time attendance through MCP. |
-| [macos](https://github.com/zyx1121/macos) | 0.1.0 | macOS Calendar, Reminders, Mail, Safari and screenshots through MCP. |
+| [macos](https://github.com/zyx1121/macos) | 0.2.0 | Native Notes, Calendar and Reminders with consistent IDs, schedules and conflict protection, plus Mail, Safari and screenshots through MCP. |
 | [ubereats](https://github.com/zyx1121/ubereats) | 0.1.0 | Uber Eats order history, receipts and group-order ledgers through MCP. |
 | [zyx](https://github.com/zyx1121/plugin) | 0.29.0 | Skills for slides, docs, academic writing, Next.js and the dev workflow. |
 

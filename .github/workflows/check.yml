@@ -1,0 +1,39 @@
+name: Check
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  catalog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate catalog and documented versions
+        run: |
+          python3 - <<'PY'
+          import json
+          import pathlib
+          import re
+
+          catalog = json.loads(pathlib.Path('.claude-plugin/marketplace.json').read_text())
+          readme = pathlib.Path('README.md').read_text()
+          names = set()
+          for plugin in catalog['plugins']:
+              name = plugin['name']
+              version = plugin['version']
+              assert name not in names, f'Duplicate plugin: {name}'
+              names.add(name)
+              assert re.fullmatch(r'\d+\.\d+\.\d+', version), name
+              source = plugin['source']
+              assert source['source'] == 'url', name
+              assert source['url'].startswith('https://github.com/'), name
+              assert re.fullmatch(r'[0-9a-f]{40}', source['sha']), name
+              row = next(line for line in readme.splitlines() if line.startswith(f'| [{name}]('))
+              assert f'| {version} |' in row, f'README version differs: {name}'
+          print(f'Validated {len(names)} release pins and documented versions')
+          PY
