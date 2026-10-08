@@ -48,12 +48,12 @@
     },
     {
       "name": "macos",
-      "description": "Native Notes, Calendar and Reminders with consistent IDs, schedules and conflict protection, plus Mail, Safari and screenshots through MCP.",
-      "version": "0.2.0",
+      "description": "Native organization, complex recurrence, availability planning, ID-based Mail drafts and permission diagnostics, plus Safari and screenshots through MCP.",
+      "version": "0.3.0",
       "source": {
         "source": "url",
         "url": "https://github.com/zyx1121/macos.git",
-        "sha": "3c3fef7a41c2cc89e422036eaa01617c9a80d146"
+        "sha": "5c4b0b15e9cb2ec0a527ff30b63c618cb903c2dd"
       }
     },
     {
