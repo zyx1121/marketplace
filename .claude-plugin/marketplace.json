@@ -9,11 +9,11 @@
     {
       "name": "fde",
       "description": "Agent-driven client POCs with shared skills, MCP tools, and scripts.",
-      "version": "0.1.1",
+      "version": "0.2.0",
       "source": {
         "source": "url",
         "url": "https://github.com/zyx1121/fde.git",
-        "sha": "7f6839d7b0707f2162b2b8cdb33a863af3fbd453"
+        "sha": "cfd9809186b2950d9f3458a6ce5a9fc51f637a1b"
       }
     },
     {
