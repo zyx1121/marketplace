@@ -31,7 +31,7 @@ codex plugin add zyx@zyx1121
 
 | Plugin | Version | Purpose |
 |---|---|---|
-| [fde](https://github.com/zyx1121/fde) | 0.1.1 | Build and operate live client POCs through shared skills, MCP tools and scripts. |
+| [fde](https://github.com/zyx1121/fde) | 0.2.0 | Build and operate live client POCs through shared skills, MCP tools and scripts. |
 | [task-web](https://github.com/zyx1121/task-web) | 0.4.0 | Personal web tools and research demos with the zyx template, separate from FDE operations. |
 | [pve](https://github.com/zyx1121/pve) | 0.1.0 | Operate Proxmox guests, port forwarding, internal DNS and Caddy through MCP. |
 | [nycu](https://github.com/zyx1121/nycu) | 0.1.0 | NYCU portal, E3 coursework, public timetable and part-time attendance through MCP. |
