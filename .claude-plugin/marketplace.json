@@ -29,11 +29,11 @@
     {
       "name": "pve",
       "description": "Proxmox and gateway MCP tools for guests, forwarding, internal DNS and Caddy.",
-      "version": "0.1.0",
+      "version": "0.1.2",
       "source": {
         "source": "url",
         "url": "https://github.com/zyx1121/pve.git",
-        "sha": "8760321c6e5437c22c672c1aec5fd40d7f68a0b8"
+        "sha": "7acbf3e188308cc0d61e343e0da3f0ec0efc98c3"
       }
     },
     {
