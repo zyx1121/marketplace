@@ -38,7 +38,7 @@ Codex：先 `codex plugin marketplace add zyx1121/marketplace`，再 `codex plug
 | [fde](https://github.com/zyx1121/fde) | 0.2.0 | 用共用的 skill、MCP 工具和腳本建立並維運客戶 POC。 |
 | [task-web](https://github.com/zyx1121/task-web) | 0.4.0 | 用 zyx 模板做個人網頁工具和研究 demo。 |
 | [pve](https://github.com/zyx1121/pve) | 0.1.2 | 透過 MCP 操作 Proxmox guest、port forwarding、內部 DNS 和 Caddy。 |
-| [nycu](https://github.com/zyx1121/nycu) | 0.2.0 | 透過 MCP 使用陽明交大入口網站、E3、公開課表和兼任簽到。 |
+| [nycu](https://github.com/zyx1121/nycu) | 0.3.0 | 透過 MCP 使用陽明交大入口網站、E3、公開課表和兼任簽到。 |
 | [macos](https://github.com/zyx1121/macos) | 0.3.0 | 透過 MCP 使用行事曆、提醒事項、備忘錄、郵件草稿、Safari 和截圖。 |
 | [ubereats](https://github.com/zyx1121/ubereats) | 0.1.0 | 透過 MCP 查 Uber Eats 訂單紀錄、收據和團購帳本。 |
 | [zyx](https://github.com/zyx1121/plugin) | 0.29.0 | 簡報、文件、學術寫作、Next.js 和開發流程的 skill。 |
