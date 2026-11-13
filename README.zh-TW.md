@@ -42,6 +42,7 @@ Codex：先 `codex plugin marketplace add zyx1121/marketplace`，再 `codex plug
 | [macos](https://github.com/zyx1121/macos) | 0.3.0 | 透過 MCP 使用行事曆、提醒事項、備忘錄、郵件草稿、Safari 和截圖。 |
 | [ubereats](https://github.com/zyx1121/ubereats) | 0.1.0 | 透過 MCP 查 Uber Eats 訂單紀錄、收據和團購帳本。 |
 | [zyx](https://github.com/zyx1121/plugin) | 0.29.0 | 簡報、文件、學術寫作、Next.js 和開發流程的 skill。 |
+| [tailscale](https://github.com/zyx1121/tailscale) | 0.1.0 | 透過 MCP 讀 Tailscale 裝置、線上的 policy 檔並驗證 policy，唯讀。 |
 
 個人頁面用 task-web，已設定好的客戶環境用 fde。個人任務跑在 FDE 工作區時，兩個一起用。
 

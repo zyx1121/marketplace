@@ -40,6 +40,7 @@ Codex: `codex plugin marketplace add zyx1121/marketplace`, then `codex plugin ad
 | [macos](https://github.com/zyx1121/macos) | 0.3.0 | Calendar, Reminders, Notes, Mail drafts, Safari and screenshots through MCP. |
 | [ubereats](https://github.com/zyx1121/ubereats) | 0.1.0 | Uber Eats order history, receipts and group-order ledgers through MCP. |
 | [zyx](https://github.com/zyx1121/plugin) | 0.29.0 | Skills for slides, documents, academic writing, Next.js and the dev workflow. |
+| [tailscale](https://github.com/zyx1121/tailscale) | 0.1.0 | Tailscale devices, the live policy file and policy validation through MCP, read-only. |
 
 Use task-web for a personal page and fde for a configured client environment. Use both when a personal task runs in an FDE workspace.
 

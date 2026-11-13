@@ -75,6 +75,16 @@
         "url": "https://github.com/zyx1121/plugin.git",
         "sha": "87dbd224aa457ea5a8b4f4a8776b1a7cbd1f34f1"
       }
+    },
+    {
+      "name": "tailscale",
+      "description": "Read-only Tailscale MCP tools for devices, the live policy file and policy validation.",
+      "version": "0.1.0",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/zyx1121/tailscale.git",
+        "sha": "d827cda1f9ea38248e85079dd44b70c143ad7c29"
+      }
     }
   ]
 }
