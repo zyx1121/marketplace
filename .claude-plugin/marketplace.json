@@ -18,12 +18,12 @@
     },
     {
       "name": "task-web",
-      "version": "0.4.1",
+      "version": "0.4.2",
       "description": "Personal web tools and research demos with fixed zyx corners, a focused workspace and ui.zyx.tw.",
       "source": {
         "source": "url",
         "url": "https://github.com/zyx1121/task-web.git",
-        "sha": "98e41f0ae6a1619f75552d50c1b970e2daff8818"
+        "sha": "5e34983a969741643445551850283b9057aefe51"
       }
     },
     {
