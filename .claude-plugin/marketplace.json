@@ -49,11 +49,11 @@
     {
       "name": "macos",
       "description": "Native organization, complex recurrence, availability planning, ID-based Mail drafts and permission diagnostics, plus Safari and screenshots through MCP.",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "source": {
         "source": "url",
         "url": "https://github.com/zyx1121/macos.git",
-        "sha": "5c4b0b15e9cb2ec0a527ff30b63c618cb903c2dd"
+        "sha": "9570762d69b0d3c5d2f7316c7b2366ad470feb71"
       }
     },
     {
