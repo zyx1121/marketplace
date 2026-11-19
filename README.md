@@ -37,7 +37,7 @@ Codex: `codex plugin marketplace add zyx1121/marketplace`, then `codex plugin ad
 | [task-web](https://github.com/zyx1121/task-web) | 0.4.2 | Personal web tools and research demos on the zyx template. |
 | [pve](https://github.com/zyx1121/pve) | 0.2.0 | Proxmox guests, port forwarding, internal DNS and Caddy through MCP. |
 | [nycu](https://github.com/zyx1121/nycu) | 0.4.0 | NYCU portal, E3 coursework, the public timetable and part-time attendance through MCP. |
-| [macos](https://github.com/zyx1121/macos) | 0.3.0 | Calendar, Reminders, Notes, Mail drafts, Safari and screenshots through MCP. |
+| [macos](https://github.com/zyx1121/macos) | 0.3.1 | Calendar, Reminders, Notes, Mail drafts, Safari and screenshots through MCP. |
 | [ubereats](https://github.com/zyx1121/ubereats) | 0.1.0 | Uber Eats order history, receipts and group-order ledgers through MCP. |
 | [zyx](https://github.com/zyx1121/plugin) | 0.29.0 | Skills for slides, documents, academic writing, Next.js and the dev workflow. |
 | [tailscale](https://github.com/zyx1121/tailscale) | 0.1.0 | Tailscale devices, the live policy file and policy validation through MCP, read-only. |
