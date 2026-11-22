@@ -43,6 +43,7 @@ Codex：先 `codex plugin marketplace add zyx1121/marketplace`，再 `codex plug
 | [ubereats](https://github.com/zyx1121/ubereats) | 0.1.0 | 通过 MCP 查询 Uber Eats 订单记录、收据和拼单账本。 |
 | [zyx](https://github.com/zyx1121/plugin) | 0.29.0 | 演示文稿、文档、学术写作、Next.js 和开发流程的 skill。 |
 | [tailscale](https://github.com/zyx1121/tailscale) | 0.1.0 | 通过 MCP 读 Tailscale 设备、线上的 policy 文件并验证 policy，只读。 |
+| [tmux](https://github.com/zyx1121/tmux) | 0.1.0 | 通过 MCP 在本机或任何 SSH 主机的 tmux 运行命令，返回输出与 exit code。 |
 
 个人页面用 task-web，已配置好的客户环境用 fde。个人任务运行在 FDE 工作区时，两个一起用。
 
