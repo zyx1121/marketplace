@@ -87,13 +87,13 @@
       }
     },
     {
-      "name": "tmux",
-      "description": "Run commands in tmux on this machine or any SSH host through MCP, with output and exit code.",
-      "version": "0.1.0",
+      "name": "stick",
+      "description": "One MCP tool for every machine you can ssh into: commands on Linux or Windows, tmux and a Windows desktop.",
+      "version": "0.2.0",
       "source": {
         "source": "url",
-        "url": "https://github.com/zyx1121/tmux.git",
-        "sha": "9f1be3534bf6bbe6265b61874e6e0eccec1c38b1"
+        "url": "https://github.com/zyx1121/stick.git",
+        "sha": "b895e9e1de9da98973d2624f518558707a0b0455"
       }
     }
   ]
