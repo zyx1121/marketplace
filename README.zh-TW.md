@@ -43,7 +43,7 @@ Codex：先 `codex plugin marketplace add zyx1121/marketplace`，再 `codex plug
 | [ubereats](https://github.com/zyx1121/ubereats) | 0.1.0 | 透過 MCP 查 Uber Eats 訂單紀錄、收據和團購帳本。 |
 | [zyx](https://github.com/zyx1121/plugin) | 0.29.0 | 簡報、文件、學術寫作、Next.js 和開發流程的 skill。 |
 | [tailscale](https://github.com/zyx1121/tailscale) | 0.1.0 | 透過 MCP 讀 Tailscale 裝置、線上的 policy 檔並驗證 policy，唯讀。 |
-| [tmux](https://github.com/zyx1121/tmux) | 0.1.0 | 透過 MCP 在本機或任何 SSH 主機的 tmux 跑指令，回傳輸出與 exit code。 |
+| [stick](https://github.com/zyx1121/stick) | 0.2.0 | 透過 MCP 在 Linux 或 Windows 主機跑指令、操作 tmux 與 Windows 桌面。 |
 
 個人頁面用 task-web，已設定好的客戶環境用 fde。個人任務跑在 FDE 工作區時，兩個一起用。
 
