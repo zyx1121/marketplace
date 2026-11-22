@@ -85,6 +85,16 @@
         "url": "https://github.com/zyx1121/tailscale.git",
         "sha": "d827cda1f9ea38248e85079dd44b70c143ad7c29"
       }
+    },
+    {
+      "name": "tmux",
+      "description": "Run commands in tmux on this machine or any SSH host through MCP, with output and exit code.",
+      "version": "0.1.0",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/zyx1121/tmux.git",
+        "sha": "9f1be3534bf6bbe6265b61874e6e0eccec1c38b1"
+      }
     }
   ]
 }
