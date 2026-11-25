@@ -30,7 +30,9 @@ jobs:
               names.add(name)
               assert re.fullmatch(r'\d+\.\d+\.\d+', version), name
               source = plugin['source']
-              assert source['source'] == 'url', name
+              assert source['source'] in ('url', 'git-subdir'), name
+              if source['source'] == 'git-subdir':
+                  assert source.get('path'), name
               assert source['url'].startswith('https://github.com/'), name
               assert re.fullmatch(r'[0-9a-f]{40}', source['sha']), name
               row = next(line for line in readme.splitlines() if line.startswith(f'| [{name}]('))

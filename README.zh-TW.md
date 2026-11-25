@@ -41,9 +41,18 @@ Codex：先 `codex plugin marketplace add zyx1121/marketplace`，再 `codex plug
 | [nycu](https://github.com/zyx1121/nycu) | 0.4.0 | 透過 MCP 使用陽明交大入口網站、E3、公開課表和兼任簽到。 |
 | [macos](https://github.com/zyx1121/macos) | 0.3.0 | 透過 MCP 使用行事曆、提醒事項、備忘錄、郵件草稿、Safari 和截圖。 |
 | [ubereats](https://github.com/zyx1121/ubereats) | 0.1.0 | 透過 MCP 查 Uber Eats 訂單紀錄、收據和團購帳本。 |
-| [zyx](https://github.com/zyx1121/plugin) | 0.29.0 | 簡報、文件、學術寫作、Next.js 和開發流程的 skill。 |
+| [zyx](https://github.com/zyx1121/plugin) | 0.50.1 | 簡報、文件、學術寫作、Next.js 和開發流程的 skill。 |
 | [tailscale](https://github.com/zyx1121/tailscale) | 0.1.0 | 透過 MCP 讀 Tailscale 裝置、線上的 policy 檔並驗證 policy，唯讀。 |
 | [stick](https://github.com/zyx1121/stick) | 0.2.0 | 透過 MCP 在 Linux 或 Windows 主機跑指令、操作 tmux 與 Windows 桌面。 |
+| [secret-mod](https://github.com/zyx1121/secret-mod) | 0.1.0 | 用表單問帳密，存進 keychain，讓 Claude 用而看不到值。 |
+| [hum](https://github.com/zyx1121/hum) | 0.1.0 | 輸入框上方一行，顯示每台機器的 CPU、記憶體與磁碟。 |
+| [music-mod](https://github.com/zyx1121/music-mod) | 0.6.1 | 輸入框上方一行，顯示 Music.app 正在播的歌。 |
+| [today-mod](https://github.com/zyx1121/today-mod) | 0.6.1 | 當天行程顯示在輸入框上方，也交給 Claude 當背景。 |
+| [golem-mod](https://github.com/zyx1121/golem-mod) | 0.3.0 | golem 事件顯示在輸入框上方，另有通知與 /golem。 |
+| [ship-mod](https://github.com/zyx1121/ship-mod) | 0.3.1 | CI 與部署進度顯示在輸入框上方，另有通知與 /ship。 |
+| [i-have-dyslexia](https://github.com/zyx1121/i-have-dyslexia) | 0.1.0 | 把回覆整理成閱讀障礙者好讀的格式。 |
+| [admiralty-code](https://github.com/zyx1121/admiralty-code) | 0.1.0 | 用 Admiralty Code 標出每項回報的來源可靠度與可信度。 |
+| [paper-generator](https://github.com/zyx1121/paper-generator) | 0.7.2 | 從研究想法到 LaTeX 論文，含模擬審稿。 |
 
 個人頁面用 task-web，已設定好的客戶環境用 fde。個人任務跑在 FDE 工作區時，兩個一起用。
 
