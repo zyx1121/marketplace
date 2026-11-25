@@ -159,12 +159,12 @@
     },
     {
       "name": "i-have-dyslexia",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "description": "Shape Claude Code output for a dyslexic reader: short sentences, one idea per line, a fixed reply skeleton, bold anchors.",
       "source": {
         "source": "url",
         "url": "https://github.com/zyx1121/i-have-dyslexia.git",
-        "sha": "06ced2e9191b8fdce7d079d3048ba85839d432be"
+        "sha": "effc51530edfafc9365a6cb1c4a55f58d7498548"
       }
     },
     {

@@ -48,7 +48,7 @@ Codex: `codex plugin marketplace add zyx1121/marketplace`, then `codex plugin ad
 | [today-mod](https://github.com/zyx1121/today-mod) | 0.6.1 | The day's agenda above the prompt and in Claude's context. |
 | [golem-mod](https://github.com/zyx1121/golem-mod) | 0.3.0 | golem incidents above the prompt, with a toast and /golem. |
 | [ship-mod](https://github.com/zyx1121/ship-mod) | 0.3.1 | CI and deploy progress above the prompt, with a toast and /ship. |
-| [i-have-dyslexia](https://github.com/zyx1121/i-have-dyslexia) | 0.1.0 | Replies shaped for a dyslexic reader. |
+| [i-have-dyslexia](https://github.com/zyx1121/i-have-dyslexia) | 0.2.0 | Replies shaped for a dyslexic reader. |
 | [admiralty-code](https://github.com/zyx1121/admiralty-code) | 0.1.0 | Grade each reported claim by source reliability and credibility. |
 | [paper-generator](https://github.com/zyx1121/paper-generator) | 0.7.2 | From research idea to LaTeX paper, with simulated peer review. |
 
