@@ -50,7 +50,7 @@ Codex：先 `codex plugin marketplace add zyx1121/marketplace`，再 `codex plug
 | [today-mod](https://github.com/zyx1121/today-mod) | 0.6.1 | 当天行程显示在输入框上方，也交给 Claude 当背景。 |
 | [golem-mod](https://github.com/zyx1121/golem-mod) | 0.3.0 | golem 事件显示在输入框上方，另有通知与 /golem。 |
 | [ship-mod](https://github.com/zyx1121/ship-mod) | 0.3.1 | CI 与部署进度显示在输入框上方，另有通知与 /ship。 |
-| [i-have-dyslexia](https://github.com/zyx1121/i-have-dyslexia) | 0.1.0 | 把回复整理成阅读障碍者好读的格式。 |
+| [i-have-dyslexia](https://github.com/zyx1121/i-have-dyslexia) | 0.2.0 | 把回复整理成阅读障碍者好读的格式。 |
 | [admiralty-code](https://github.com/zyx1121/admiralty-code) | 0.1.0 | 用 Admiralty Code 标出每项回报的来源可靠度与可信度。 |
 | [paper-generator](https://github.com/zyx1121/paper-generator) | 0.7.2 | 从研究想法到 LaTeX 论文，含模拟审稿。 |
 

@@ -50,7 +50,7 @@ Codex：先 `codex plugin marketplace add zyx1121/marketplace`，再 `codex plug
 | [today-mod](https://github.com/zyx1121/today-mod) | 0.6.1 | 當天行程顯示在輸入框上方，也交給 Claude 當背景。 |
 | [golem-mod](https://github.com/zyx1121/golem-mod) | 0.3.0 | golem 事件顯示在輸入框上方，另有通知與 /golem。 |
 | [ship-mod](https://github.com/zyx1121/ship-mod) | 0.3.1 | CI 與部署進度顯示在輸入框上方，另有通知與 /ship。 |
-| [i-have-dyslexia](https://github.com/zyx1121/i-have-dyslexia) | 0.1.0 | 把回覆整理成閱讀障礙者好讀的格式。 |
+| [i-have-dyslexia](https://github.com/zyx1121/i-have-dyslexia) | 0.2.0 | 把回覆整理成閱讀障礙者好讀的格式。 |
 | [admiralty-code](https://github.com/zyx1121/admiralty-code) | 0.1.0 | 用 Admiralty Code 標出每項回報的來源可靠度與可信度。 |
 | [paper-generator](https://github.com/zyx1121/paper-generator) | 0.7.2 | 從研究想法到 LaTeX 論文，含模擬審稿。 |
 
