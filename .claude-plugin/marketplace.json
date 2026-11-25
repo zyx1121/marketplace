@@ -69,11 +69,11 @@
     {
       "name": "zyx",
       "description": "Skills for slides, docs, academic writing, Next.js and the dev workflow.",
-      "version": "0.29.0",
+      "version": "0.50.1",
       "source": {
         "source": "url",
         "url": "https://github.com/zyx1121/plugin.git",
-        "sha": "87dbd224aa457ea5a8b4f4a8776b1a7cbd1f34f1"
+        "sha": "5d226210e156b60d6effc471c550abcccf71d17f"
       }
     },
     {
@@ -94,6 +94,97 @@
         "source": "url",
         "url": "https://github.com/zyx1121/stick.git",
         "sha": "b895e9e1de9da98973d2624f518558707a0b0455"
+      }
+    },
+    {
+      "name": "secret-mod",
+      "version": "0.1.0",
+      "description": "Ask for credentials in a form, keep them in the macOS keychain, and run commands with them without showing the values to Claude.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/zyx1121/secret-mod.git",
+        "sha": "f60399f2e88e36a256a3964396b08dd979e4548c"
+      }
+    },
+    {
+      "name": "hum",
+      "version": "0.1.0",
+      "description": "A band above the prompt with every machine's CPU, memory and disk, read from sensorium.",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/zyx1121/hum.git",
+        "path": "plugin",
+        "sha": "784b0200909d6525961581bf450cd6479f3ee1de"
+      }
+    },
+    {
+      "name": "music-mod",
+      "version": "0.6.1",
+      "description": "/music: what macOS Music.app is playing, in one line above the prompt.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/zyx1121/music-mod.git",
+        "sha": "7b4b545bd549c53591c16e879613061fec903d75"
+      }
+    },
+    {
+      "name": "today-mod",
+      "version": "0.6.1",
+      "description": "/today: the day's agenda from Calendar, E3 deadlines and Reminders, above the prompt and in Claude's context.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/zyx1121/today-mod.git",
+        "sha": "019a10d3685b5d5bd037d5e3bcdb72be6887af99"
+      }
+    },
+    {
+      "name": "golem-mod",
+      "version": "0.3.0",
+      "description": "golem alerts in Claude Code: a line above the prompt while an incident is open, a toast when one opens or resolves, and /golem for the list.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/zyx1121/golem-mod.git",
+        "sha": "e61b17c3b14f0b6a1e0341329f18b55e9b71518a"
+      }
+    },
+    {
+      "name": "ship-mod",
+      "version": "0.3.1",
+      "description": "Pull requests and deploys in Claude Code: a line above the prompt while CI runs or a deploy is under way, a toast when one ends, and /ship for the list.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/zyx1121/ship-mod.git",
+        "sha": "77186bab8c2b4cfd2fa894e6285ac26a74070a85"
+      }
+    },
+    {
+      "name": "i-have-dyslexia",
+      "version": "0.1.0",
+      "description": "Shape Claude Code output for a dyslexic reader: short sentences, one idea per line, a fixed reply skeleton, bold anchors.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/zyx1121/i-have-dyslexia.git",
+        "sha": "06ced2e9191b8fdce7d079d3048ba85839d432be"
+      }
+    },
+    {
+      "name": "admiralty-code",
+      "version": "0.1.0",
+      "description": "Grade each claim an agent reports with the Admiralty Code: source reliability A to F, information credibility 1 to 6.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/zyx1121/admiralty-code.git",
+        "sha": "e1735f12a39f16eade47189900dc806ddc424cbc"
+      }
+    },
+    {
+      "name": "paper-generator",
+      "version": "0.7.2",
+      "description": "Idea-to-paper pipeline: discuss an idea, pick a venue, run experiments, write the LaTeX paper and iterate with simulated peer review.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/zyx1121/paper-generator.git",
+        "sha": "bc0efb299d69778410a04dba4faf260d3d84cb9d"
       }
     }
   ]

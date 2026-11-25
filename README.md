@@ -39,9 +39,18 @@ Codex: `codex plugin marketplace add zyx1121/marketplace`, then `codex plugin ad
 | [nycu](https://github.com/zyx1121/nycu) | 0.4.0 | NYCU portal, E3 coursework, the public timetable and part-time attendance through MCP. |
 | [macos](https://github.com/zyx1121/macos) | 0.3.1 | Calendar, Reminders, Notes, Mail drafts, Safari and screenshots through MCP. |
 | [ubereats](https://github.com/zyx1121/ubereats) | 0.1.0 | Uber Eats order history, receipts and group-order ledgers through MCP. |
-| [zyx](https://github.com/zyx1121/plugin) | 0.29.0 | Skills for slides, documents, academic writing, Next.js and the dev workflow. |
+| [zyx](https://github.com/zyx1121/plugin) | 0.50.1 | Skills for slides, documents, academic writing, Next.js and the dev workflow. |
 | [tailscale](https://github.com/zyx1121/tailscale) | 0.1.0 | Tailscale devices, the live policy file and policy validation through MCP, read-only. |
 | [stick](https://github.com/zyx1121/stick) | 0.2.0 | Commands on Linux or Windows hosts over ssh, tmux and a Windows desktop through MCP. |
+| [secret-mod](https://github.com/zyx1121/secret-mod) | 0.1.0 | Credentials asked in a form, kept in the keychain, used without showing them to Claude. |
+| [hum](https://github.com/zyx1121/hum) | 0.1.0 | Every machine's CPU, memory and disk in one line above the prompt. |
+| [music-mod](https://github.com/zyx1121/music-mod) | 0.6.1 | What Music.app is playing, in one line above the prompt. |
+| [today-mod](https://github.com/zyx1121/today-mod) | 0.6.1 | The day's agenda above the prompt and in Claude's context. |
+| [golem-mod](https://github.com/zyx1121/golem-mod) | 0.3.0 | golem incidents above the prompt, with a toast and /golem. |
+| [ship-mod](https://github.com/zyx1121/ship-mod) | 0.3.1 | CI and deploy progress above the prompt, with a toast and /ship. |
+| [i-have-dyslexia](https://github.com/zyx1121/i-have-dyslexia) | 0.1.0 | Replies shaped for a dyslexic reader. |
+| [admiralty-code](https://github.com/zyx1121/admiralty-code) | 0.1.0 | Grade each reported claim by source reliability and credibility. |
+| [paper-generator](https://github.com/zyx1121/paper-generator) | 0.7.2 | From research idea to LaTeX paper, with simulated peer review. |
 
 Use task-web for a personal page and fde for a configured client environment. Use both when a personal task runs in an FDE workspace.
 

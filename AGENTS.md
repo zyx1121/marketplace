@@ -12,7 +12,7 @@ Catalog that pins zyx1121 plugins to release commits for Claude Code and Codex. 
 
 ## Rules
 
-- Every entry uses `"source": "url"`, a `https://github.com/` URL and a full SHA. Never point at a branch.
+- Every entry uses `"source": "url"`, a `https://github.com/` URL and a full SHA. Never point at a branch. A plugin that lives in a folder of its repo uses `"source": "git-subdir"` with `path`, same URL and SHA rules.
 - One entry per plugin name.
 - Keep the table row format `| [<name>](<url>) | <version> | <purpose> |`. The CI check finds rows by this prefix.
 - Repository documents are English.
