@@ -35,13 +35,12 @@ Codex：先 `codex plugin marketplace add zyx1121/marketplace`，再 `codex plug
 
 | 插件 | 版本 | 用途 |
 |---|---|---|
-| [fde](https://github.com/zyx1121/fde) | 0.2.0 | 用共用的 skill、MCP 工具和脚本搭建并运维客户 POC。 |
-| [task-web](https://github.com/zyx1121/task-web) | 0.4.0 | 用 zyx 模板做个人网页工具和研究 demo。 |
+| [fde](https://github.com/zyx1121/fde) | 0.2.1 | 用共用的 skill、MCP 工具和脚本搭建并运维客户 POC。 |
 | [pve](https://github.com/zyx1121/pve) | 0.2.0 | 通过 MCP 操作 Proxmox guest、端口转发、内部 DNS 和 Caddy。 |
 | [nycu](https://github.com/zyx1121/nycu) | 0.4.0 | 通过 MCP 使用阳明交大门户网站、E3、公开课表和兼任签到。 |
 | [macos](https://github.com/zyx1121/macos) | 0.3.0 | 通过 MCP 使用日历、提醒事项、备忘录、邮件草稿、Safari 和截图。 |
 | [ubereats](https://github.com/zyx1121/ubereats) | 0.1.0 | 通过 MCP 查询 Uber Eats 订单记录、收据和拼单账本。 |
-| [zyx](https://github.com/zyx1121/plugin) | 0.50.1 | 演示文稿、文档、学术写作、Next.js 和开发流程的 skill。 |
+| [zyx](https://github.com/zyx1121/plugin) | 0.51.0 | 演示文稿、文档、学术写作、Next.js 和开发流程的 skill。 |
 | [tailscale](https://github.com/zyx1121/tailscale) | 0.1.0 | 通过 MCP 读 Tailscale 设备、线上的 policy 文件并验证 policy，只读。 |
 | [stick](https://github.com/zyx1121/stick) | 0.2.0 | 通过 MCP 在 Linux 或 Windows 主机运行命令、操作 tmux 与 Windows 桌面。 |
 | [secret-mod](https://github.com/zyx1121/secret-mod) | 0.1.0 | 用表单问账号密码，存进 keychain，让 Claude 用而看不到值。 |
@@ -54,7 +53,7 @@ Codex：先 `codex plugin marketplace add zyx1121/marketplace`，再 `codex plug
 | [admiralty-code](https://github.com/zyx1121/admiralty-code) | 0.1.0 | 用 Admiralty Code 标出每项回报的来源可靠度与可信度。 |
 | [paper-generator](https://github.com/zyx1121/paper-generator) | 0.7.2 | 从研究想法到 LaTeX 论文，含模拟审稿。 |
 
-个人页面用 task-web，已配置好的客户环境用 fde。个人任务运行在 FDE 工作区时，两个一起用。
+个人页面用 zyx 的 task-web skill，已配置好的客户环境用 fde。个人任务运行在 FDE 工作区时，两个一起用。
 
 Claude Code 从自己的 marketplace 安装完整的 `zyx@zyx`，包含 agent 和 utils MCP server。Codex 从这里安装 `zyx@zyx1121`，只有 skill。
 
