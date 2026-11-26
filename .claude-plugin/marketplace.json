@@ -9,21 +9,11 @@
     {
       "name": "fde",
       "description": "Agent-driven client POCs with shared skills, MCP tools, and scripts.",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "source": {
         "source": "url",
         "url": "https://github.com/zyx1121/fde.git",
-        "sha": "cfd9809186b2950d9f3458a6ce5a9fc51f637a1b"
-      }
-    },
-    {
-      "name": "task-web",
-      "version": "0.5.0",
-      "description": "Personal web tools and research demos with fixed zyx corners, a focused workspace and ui.zyx.tw.",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/zyx1121/task-web.git",
-        "sha": "bbd752fa9785f0d5ba46f38dd38fc2a68c24f04e"
+        "sha": "481ef2dfdf10bdc04d3bdbffef4b7fb6f8dd00fd"
       }
     },
     {
@@ -69,11 +59,11 @@
     {
       "name": "zyx",
       "description": "Skills for slides, docs, academic writing, Next.js and the dev workflow.",
-      "version": "0.50.1",
+      "version": "0.51.0",
       "source": {
         "source": "url",
         "url": "https://github.com/zyx1121/plugin.git",
-        "sha": "5d226210e156b60d6effc471c550abcccf71d17f"
+        "sha": "2cb97d388dc57e546b58c050670a121eddb8d4f5"
       }
     },
     {
