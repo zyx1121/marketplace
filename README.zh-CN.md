@@ -40,7 +40,7 @@ Codex：先 `codex plugin marketplace add zyx1121/marketplace`，再 `codex plug
 | [nycu](https://github.com/zyx1121/nycu) | 0.4.0 | 通过 MCP 使用阳明交大门户网站、E3、公开课表和兼任签到。 |
 | [macos](https://github.com/zyx1121/macos) | 0.3.0 | 通过 MCP 使用日历、提醒事项、备忘录、邮件草稿、Safari 和截图。 |
 | [ubereats](https://github.com/zyx1121/ubereats) | 0.1.0 | 通过 MCP 查询 Uber Eats 订单记录、收据和拼单账本。 |
-| [zyx](https://github.com/zyx1121/plugin) | 0.51.0 | 演示文稿、文档、学术写作、Next.js 和开发流程的 skill。 |
+| [zyx](https://github.com/zyx1121/plugin) | 0.54.0 | 演示文稿、文档、学术写作、Next.js 和开发流程的 skill。 |
 | [tailscale](https://github.com/zyx1121/tailscale) | 0.1.0 | 通过 MCP 读 Tailscale 设备、线上的 policy 文件并验证 policy，只读。 |
 | [stick](https://github.com/zyx1121/stick) | 0.2.0 | 通过 MCP 在 Linux 或 Windows 主机运行命令、操作 tmux 与 Windows 桌面。 |
 | [pcb](https://github.com/zyx1121/pcb) | 0.1.0 | KiCad PCB 设计顺序、无头 KiCad 关卡、通过 MCP 查 JLCPCB 料号。 |
