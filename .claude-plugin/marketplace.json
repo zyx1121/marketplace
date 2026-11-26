@@ -87,6 +87,16 @@
       }
     },
     {
+      "name": "pcb",
+      "description": "KiCad PCB design for agents: a design-order skill, headless KiCad gates and JLCPCB parts through MCP.",
+      "version": "0.1.0",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/zyx1121/pcb.git",
+        "sha": "67393b9f6d8efbf41a4d17e0ad0aaf6f146c4de9"
+      }
+    },
+    {
       "name": "secret-mod",
       "version": "0.1.0",
       "description": "Ask for credentials in a form, keep them in the macOS keychain, and run commands with them without showing the values to Claude.",
