@@ -34,7 +34,7 @@ Codex: `codex plugin marketplace add zyx1121/marketplace`, then `codex plugin ad
 | Plugin | Version | Purpose |
 |---|---|---|
 | [fde](https://github.com/zyx1121/fde) | 0.2.0 | Build and operate live client POCs with shared skills, MCP tools and scripts. |
-| [task-web](https://github.com/zyx1121/task-web) | 0.4.2 | Personal web tools and research demos on the zyx template. |
+| [task-web](https://github.com/zyx1121/task-web) | 0.5.0 | Personal web tools and research demos on the zyx template. |
 | [pve](https://github.com/zyx1121/pve) | 0.2.0 | Proxmox guests, port forwarding, internal DNS and Caddy through MCP. |
 | [nycu](https://github.com/zyx1121/nycu) | 0.4.0 | NYCU portal, E3 coursework, the public timetable and part-time attendance through MCP. |
 | [macos](https://github.com/zyx1121/macos) | 0.3.1 | Calendar, Reminders, Notes, Mail drafts, Safari and screenshots through MCP. |
