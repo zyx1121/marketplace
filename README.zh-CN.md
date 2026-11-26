@@ -43,7 +43,7 @@ Codex：先 `codex plugin marketplace add zyx1121/marketplace`，再 `codex plug
 | [zyx](https://github.com/zyx1121/plugin) | 0.54.0 | 演示文稿、文档、学术写作、Next.js 和开发流程的 skill。 |
 | [tailscale](https://github.com/zyx1121/tailscale) | 0.1.0 | 通过 MCP 读 Tailscale 设备、线上的 policy 文件并验证 policy，只读。 |
 | [stick](https://github.com/zyx1121/stick) | 0.2.0 | 通过 MCP 在 Linux 或 Windows 主机运行命令、操作 tmux 与 Windows 桌面。 |
-| [pcb](https://github.com/zyx1121/pcb) | 0.1.0 | KiCad PCB 设计顺序、无头 KiCad 关卡、通过 MCP 查 JLCPCB 料号。 |
+| [pcb](https://github.com/zyx1121/pcb) | 0.1.1 | KiCad PCB 设计顺序、无头 KiCad 关卡、通过 MCP 查 JLCPCB 料号。 |
 | [secret-mod](https://github.com/zyx1121/secret-mod) | 0.1.0 | 用表单问账号密码，存进 keychain，让 Claude 用而看不到值。 |
 | [hum](https://github.com/zyx1121/hum) | 0.1.0 | 输入框上方一行，显示每台机器的 CPU、内存与磁盘。 |
 | [music-mod](https://github.com/zyx1121/music-mod) | 0.6.1 | 输入框上方一行，显示 Music.app 正在播的歌。 |
