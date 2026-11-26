@@ -41,7 +41,7 @@ Codex: `codex plugin marketplace add zyx1121/marketplace`, then `codex plugin ad
 | [zyx](https://github.com/zyx1121/plugin) | 0.54.0 | Skills for slides, documents, academic writing, Next.js and the dev workflow. |
 | [tailscale](https://github.com/zyx1121/tailscale) | 0.1.0 | Tailscale devices, the live policy file and policy validation through MCP, read-only. |
 | [stick](https://github.com/zyx1121/stick) | 0.2.0 | Commands on Linux or Windows hosts over ssh, tmux and a Windows desktop through MCP. |
-| [pcb](https://github.com/zyx1121/pcb) | 0.1.0 | KiCad PCB design order, headless KiCad gates and JLCPCB parts through MCP. |
+| [pcb](https://github.com/zyx1121/pcb) | 0.1.1 | KiCad PCB design order, headless KiCad gates and JLCPCB parts through MCP. |
 | [secret-mod](https://github.com/zyx1121/secret-mod) | 0.1.0 | Credentials asked in a form, kept in the keychain, used without showing them to Claude. |
 | [hum](https://github.com/zyx1121/hum) | 0.1.0 | Every machine's CPU, memory and disk in one line above the prompt. |
 | [music-mod](https://github.com/zyx1121/music-mod) | 0.6.1 | What Music.app is playing, in one line above the prompt. |
