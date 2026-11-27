@@ -98,12 +98,12 @@
     },
     {
       "name": "secret-mod",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "description": "Ask for credentials in a form, keep them in the macOS keychain, and run commands with them without showing the values to Claude.",
       "source": {
         "source": "url",
         "url": "https://github.com/zyx1121/secret-mod.git",
-        "sha": "f60399f2e88e36a256a3964396b08dd979e4548c"
+        "sha": "abc264d94fd3b8bd627845ba827060cdb3b31163"
       }
     },
     {
