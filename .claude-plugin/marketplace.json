@@ -89,11 +89,11 @@
     {
       "name": "pcb",
       "description": "KiCad PCB design for agents: a design-order skill, headless KiCad gates and JLCPCB parts through MCP.",
-      "version": "0.3.0",
+      "version": "0.4.0",
       "source": {
         "source": "url",
         "url": "https://github.com/zyx1121/pcb.git",
-        "sha": "e6ea0d7b89029c3973566b9ba51cb46c39d8686c"
+        "sha": "c84a0bb536df14ba2defff0d4e94214132f557d7"
       }
     },
     {
