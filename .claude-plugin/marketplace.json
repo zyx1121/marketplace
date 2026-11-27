@@ -28,12 +28,12 @@
     },
     {
       "name": "nycu",
-      "description": "NYCU portal, E3 coursework, public timetable and part-time attendance through MCP.",
-      "version": "0.4.0",
+      "description": "NYCU portal, E3 coursework, public timetable, part-time attendance and university payments through MCP.",
+      "version": "0.5.0",
       "source": {
         "source": "url",
         "url": "https://github.com/zyx1121/nycu.git",
-        "sha": "dbfdf2a31eefe2ecaa59ea58375ff93ce3e7a58d"
+        "sha": "7bf5b987300736f20c13eef92b40c311d6715805"
       }
     },
     {
