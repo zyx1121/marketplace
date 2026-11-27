@@ -59,11 +59,11 @@
     {
       "name": "zyx",
       "description": "Skills for slides, docs, academic writing, Next.js and the dev workflow.",
-      "version": "0.55.1",
+      "version": "0.56.0",
       "source": {
         "source": "url",
         "url": "https://github.com/zyx1121/plugin.git",
-        "sha": "284850f4fd1fd7facaf54879e99310a3c262706a"
+        "sha": "64af9a5306c653967b697239650c6fc1526fec2b"
       }
     },
     {
