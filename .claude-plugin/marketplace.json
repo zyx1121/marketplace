@@ -108,13 +108,13 @@
     },
     {
       "name": "hum",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "description": "A band above the prompt with every machine's CPU, memory and disk, read from sensorium.",
       "source": {
         "source": "git-subdir",
         "url": "https://github.com/zyx1121/hum.git",
         "path": "plugin",
-        "sha": "e7a9ed8487d2ab2f4d90b3f8bdd5ec71365f163c"
+        "sha": "565e1d9ac227dc8536832d0e177509d98e2ae7e0"
       }
     },
     {

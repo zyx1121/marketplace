@@ -43,7 +43,7 @@ Codex: `codex plugin marketplace add zyx1121/marketplace`, then `codex plugin ad
 | [stick](https://github.com/zyx1121/stick) | 0.2.0 | Commands on Linux or Windows hosts over ssh, tmux and a Windows desktop through MCP. |
 | [pcb](https://github.com/zyx1121/pcb) | 0.4.1 | KiCad PCB design order, headless KiCad gates and JLCPCB parts through MCP. |
 | [secret-mod](https://github.com/zyx1121/secret-mod) | 0.2.0 | Credentials asked in a form, kept in the keychain, used without showing them to Claude. |
-| [hum](https://github.com/zyx1121/hum) | 0.1.0 | Every machine's CPU, memory and disk in one line above the prompt. |
+| [hum](https://github.com/zyx1121/hum) | 0.2.0 | Every machine's CPU, memory and disk in one line above the prompt. |
 | [music-mod](https://github.com/zyx1121/music-mod) | 0.6.1 | What Music.app is playing, in one line above the prompt. |
 | [today-mod](https://github.com/zyx1121/today-mod) | 0.6.1 | The day's agenda above the prompt and in Claude's context. |
 | [golem-mod](https://github.com/zyx1121/golem-mod) | 0.3.0 | golem incidents above the prompt, with a toast and /golem. |
