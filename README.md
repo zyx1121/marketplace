@@ -38,7 +38,7 @@ Codex: `codex plugin marketplace add zyx1121/marketplace`, then `codex plugin ad
 | [nycu](https://github.com/zyx1121/nycu) | 0.5.0 | NYCU portal, E3 coursework, the public timetable, part-time attendance and university payments through MCP. |
 | [macos](https://github.com/zyx1121/macos) | 0.3.1 | Calendar, Reminders, Notes, Mail drafts, Safari and screenshots through MCP. |
 | [ubereats](https://github.com/zyx1121/ubereats) | 0.1.0 | Uber Eats order history, receipts and group-order ledgers through MCP. |
-| [zyx](https://github.com/zyx1121/plugin) | 0.62.0 | Skills for slides, documents, academic writing, Next.js and the dev workflow. |
+| [zyx](https://github.com/zyx1121/plugin) | 0.63.0 | Skills for slides, documents, academic writing, Next.js and the dev workflow. |
 | [tailscale](https://github.com/zyx1121/tailscale) | 0.1.0 | Tailscale devices, the live policy file and policy validation through MCP, read-only. |
 | [stick](https://github.com/zyx1121/stick) | 0.2.0 | Commands on Linux or Windows hosts over ssh, tmux and a Windows desktop through MCP. |
 | [pcb](https://github.com/zyx1121/pcb) | 0.4.1 | KiCad PCB design order, headless KiCad gates and JLCPCB parts through MCP. |
